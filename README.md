@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/notifications"
 summary: Per-user notification inbox with read, archive and snooze, per-type channel preferences, email delivery and digests.
 license: CC-BY-4.0
+tags: [base, messaging]
 requires:
   "@specfork/auth": "^0.3.0"
 ---
